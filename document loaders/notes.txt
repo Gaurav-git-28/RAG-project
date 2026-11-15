@@ -1,0 +1,132 @@
+🔥 Top DSA Questions (Atlassian-level focus)
+
+These aren’t random—they reflect patterns Atlassian loves: graphs, intervals, design, heaps, strings.
+
+🧠 Arrays & Hashing
+Two Sum
+Longest Consecutive Sequence
+Subarray Sum Equals K
+Product of Array Except Self
+Maximum Subarray (Kadane)
+🧵 Sliding Window / Strings
+Longest Substring Without Repeating Characters
+Minimum Window Substring ⭐
+Valid Anagram
+Group Anagrams
+Find All Anagrams in a String
+📚 Stack / Monotonic Stack
+Valid Parentheses
+Min Stack (Design) ⭐
+Daily Temperatures
+Largest Rectangle in Histogram ⭐
+🌳 Trees
+Binary Tree Level Order Traversal
+Lowest Common Ancestor ⭐
+Diameter of Binary Tree
+Validate BST
+Serialize & Deserialize Binary Tree ⭐
+🌐 Graphs (VERY IMPORTANT)
+Number of Islands ⭐
+Clone Graph ⭐
+Course Schedule (Topological Sort) ⭐
+Pacific Atlantic Water Flow
+Rotting Oranges
+🧮 Dynamic Programming
+Climbing Stairs
+House Robber ⭐
+Longest Increasing Subsequence ⭐
+Coin Change ⭐
+Edit Distance ⭐
+🔁 Backtracking
+Subsets
+Permutations
+Combination Sum ⭐
+🔍 Binary Search
+Search in Rotated Sorted Array ⭐
+Median of Two Sorted Arrays ⭐
+📦 Heaps / Priority Queue
+Top K Frequent Elements ⭐
+Find Median from Data Stream ⭐
+Kth Largest Element
+🔗 Linked List
+Reverse Linked List
+Merge Two Sorted Lists
+LRU Cache ⭐ (VERY IMPORTANT)
+🧠 Greedy / Intervals
+Merge Intervals ⭐
+Non-overlapping Intervals
+Insert Interval
+🏗️ System / Design-Oriented
+Design LRU Cache ⭐
+Design Twitter ⭐
+Design Hit Counter
+URL Shortener (Design thinking)
+🧩 Hard / Mixed
+Trapping Rain Water ⭐
+Word Ladder ⭐
+Alien Dictionary ⭐
+
+👉 Focus on starred ⭐ ones first—they’re frequently asked + concept-heavy
+
+🚀 Projects That Impress Atlassian
+
+They don’t care about “basic CRUD apps”. They care about:
+👉 scalability + design + real-world thinking
+
+🥇 1. Jira-like Task Management System (BEST)
+
+Why: Direct relevance to Atlassian
+
+Features:
+
+Create boards, tasks, sprints
+Role-based access (admin/user)
+Real-time updates (WebSockets)
+Comments, attachments
+
+Tech:
+
+Backend: Spring Boot
+DB: PostgreSQL
+Cache: Redis
+Frontend: React
+🥈 2. Real-time Collaboration Tool
+
+(Google Docs / Notion lite)
+
+Features:
+
+Multiple users editing live
+Conflict resolution
+Version history
+
+👉 Shows: concurrency + system design
+
+🥉 3. URL Shortener (Production-level)
+
+Not basic—make it serious:
+
+Custom aliases
+Analytics (click tracking)
+Rate limiting
+Caching
+🏆 4. Scalable Chat System
+
+Features:
+
+1-1 + group chat
+Online/offline sync
+Message queue (Kafka optional)
+⚡ 5. API Rate Limiter (Advanced)
+Token bucket / sliding window
+Distributed system design
+💡 What will actually impress recruiters
+
+Instead of 5 weak projects, do:
+👉 2 strong projects + deep understanding
+
+Make sure you:
+
+Deploy (AWS / Render)
+Add README with architecture diagram
+Explain trade-offs (this is gold in intervie
